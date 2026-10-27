@@ -1,6 +1,14 @@
-# Python DSA Preparation
+# Python DSA Prep 🚀
 
-Daily Python DSA practice for coding interviews.
+## Day 1 — 27 October 2026 (8/8 Problems)
 
-## Progress
-- Day 1 (OCT 27): In progress
+1. Find Missing Number
+2. Valid Anagram
+3. Two Sum
+4. Move Zeroes
+5. Contains Duplicate
+6. Find Maximum
+7. Count Even Numbers
+8. Reverse String
+
+**Progress: 8/8 ✅**
